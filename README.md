@@ -99,7 +99,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 🔄 Flowchart
 
 <p align="center">
-<img src="Images/flowchart.png" width="700">
+<img src="Images/flowchat.png" width="700">
 </p>
 
 ---
@@ -107,7 +107,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 🔌 Circuit Diagram
 
 <p align="center">
-<img src="Images/circuit_Diagram.png" width="850">
+<img src="Images/circuit _Diagram.png" width="850">
 </p>
 
 ---
