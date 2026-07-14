@@ -83,7 +83,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 🏗 System Architecture
 
 <p align="center">
-<img src="Images/system_architecture.png" width="900">
+<img src="Images/system architecture.png" width="900">
 </p>
 
 ---
@@ -91,7 +91,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 📊 Block Diagram
 
 <p align="center">
-<img src="Images/block_diagram.png" width="900">
+<img src="Images/block diagram.png" width="900">
 </p>
 
 ---
@@ -107,7 +107,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 🔌 Circuit Diagram
 
 <p align="center">
-<img src="Images/circuit_diagram.png" width="850">
+<img src="Images/circuit_Diagram.png" width="850">
 </p>
 
 ---
@@ -115,7 +115,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 📷 Hardware Setup
 
 <p align="center">
-<img src="Images/hardware_setup.png" width="850">
+<img src="Images/Hardware_setup.png" width="850">
 </p>
 
 ---
