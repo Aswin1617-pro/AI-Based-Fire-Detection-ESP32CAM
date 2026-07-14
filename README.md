@@ -115,7 +115,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 📷 Hardware Setup
 
 <p align="center">
-<img src="Images/Hardware_setup.png" width="850">
+<img src="Images/Hardware_setup .png" width="850">
 </p>
 
 ---
@@ -147,7 +147,7 @@ AI-Based-Fire-Detection-ESP32CAM
 # 📸 Detection Results
 
 <p align="center">
-<img src="Results/detection_results.png" width="100%">
+<img src="Result_images/fire_2026-03-27_12-28-06.jpg" width="100%">
 </p>
 
 ---
